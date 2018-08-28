@@ -1,23 +1,37 @@
 [
 	{
 		"language": "en",
-		"title": "WPS Connect",
+		"title": "WiFi WPS Connect",
 		"des1": "Best application",
-		"des2": "abc fdfsfsfa fdfsdfasfsdfef fdfafd",
-		"url": "free.teampro.wifipasswordrecovery"
+		"des2": "WiFi WPS Connect checks the security of your networks using WPS protocol.",
+		"url": "teampro.wifi.wpsconnect"
 	},
 	{
 		"language": "vi",
-		"title": "WPS Connect",
+		"title": "WiFi WPS Connect",
 		"des1": "Ứng dụng tốt nhất",
-		"des2": "abc fdfsfsfa fdfsdfasfsdfef fdfafd",
-		"url": "free.teampro.wifipasswordrecovery"
+		"des2": "WiFi WPS Connect kiểm tra tính bảo mật của các mạng của bạn bằng giao thức WPS.",
+		"url": "teampro.wifi.wpsconnect"
 	},
 	{
 		"language": "pt",
-		"title": "WPS Connect",
-		"des1": "BO dao nha",
-		"des2": "abc fdfsfsfa fdfsdfasfsdfef fdfafd",
-		"url": "free.teampro.wifipasswordrecovery"
+		"title": "WiFi WPS Connect",
+		"des1": "Melhor aplicação",
+		"des2": "WiFi WPS Connect verifica a segurança de suas redes usando o protocolo WPS.",
+		"url": "teampro.wifi.wpsconnect"
+	},
+	{
+		"language": "th",
+		"title": "WiFi WPS Connect",
+		"des1": "โปรแกรมที่ดีที่สุด",
+		"des2": "WiFi WPS Connect ตรวจสอบความปลอดภัยของเครือข่ายของคุณโดยใช้โปรโตคอล WPS",
+		"url": "teampro.wifi.wpsconnect"
+	},
+	{
+		"language": "es",
+		"title": "WiFi WPS Connect",
+		"des1": "Mejor aplicación",
+		"des2": "WiFi WPS Connect verifica la seguridad de sus redes mediante el protocolo WPS.",
+		"url": "teampro.wifi.wpsconnect"
 	}
 ]
