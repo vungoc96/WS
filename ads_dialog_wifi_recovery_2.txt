@@ -15,10 +15,10 @@
 	},
 	{
 		"language": "pt",
-		"title": "WiFi WPS Connect",
+		"title": "WiFi WPS Tester",
 		"des1": "Melhor aplicação",
-		"des2": "WiFi WPS Connect verifica a segurança de suas redes usando o protocolo WPS.",
-		"url": "teampro.wifi.wpsconnect"
+		"des2": "WiFi WPS Tester verifica a segurança de suas redes usando o protocolo WPS.",
+		"url": "com.vtnext.wifiwpstester"
 	},
 	{
 		"language": "th",
@@ -29,9 +29,9 @@
 	},
 	{
 		"language": "es",
-		"title": "WiFi WPS Connect",
+		"title": "WiFi WPS Tester",
 		"des1": "Mejor aplicación",
-		"des2": "WiFi WPS Connect verifica la seguridad de sus redes mediante el protocolo WPS.",
-		"url": "teampro.wifi.wpsconnect"
+		"des2": "WiFi WPS Tester verifica la seguridad de sus redes mediante el protocolo WPS.",
+		"url": "com.vtnext.wifiwpstester"
 	}
 ]
