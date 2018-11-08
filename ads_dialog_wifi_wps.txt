@@ -1,37 +1,51 @@
 [
   {
     "language": "en",
-    "title": "WiFi WPS Tester",
+    "title": "WiFi Password Recovery",
     "des1": "Best application",
-    "des2": "WiFi WPS Tester checks the security of your networks using WPS protocol.",
-    "url": "com.vtnext.wifiwpstester"
+    "des2": "List all wifi passwords saved in your device. This application will help you recover the password of a wireless network you have connected to with your device in the past.",
+    "url": "com.vtnext.wifipassrecovery2"
   },
   {
     "language": "vi",
-    "title": "WiFi WPS Tester",
+    "title": "Xem mật khẩu WiFi — Miễn phí",
     "des1": "Ứng dụng tốt nhất",
-    "des2": "WiFi WPS Tester kiểm tra tính bảo mật của các mạng của bạn bằng giao thức WPS.",
-    "url": "com.vtnext.wifiwpstester"
+    "des2": "Ứng dụng này sẽ giúp bạn khôi phục mật khẩu của mạng WiFi mà bạn đã kết nối với thiết bị của mình trong quá khứ.",
+    "url": "com.vtnext.wifipassrecovery2"
   },
   {
     "language": "pt",
-    "title": "WiFi WPS Tester",
+    "title": "WiFi Senha — Visualizador de senha de WiFi",
     "des1": "Melhor aplicação",
-    "des2": "WiFi WPS Tester verifica a segurança de suas redes usando o protocolo WPS.",
-    "url": "com.vtnext.wifiwpstester"
+    "des2": "Listar todas as senhas de Wi-Fi salvas no seu dispositivo. Esta aplicação irá ajudá-lo a recuperar a senha de uma rede sem fio que você conectou ao seu dispositivo no passado",
+    "url": "com.vtnext.wifipassrecovery2"
   },
   {
     "language": "th",
-    "title": "WiFi WPS Tester",
+    "title": "โปรแกรมดูรหัสผ่าน WiFi",
     "des1": "โปรแกรมที่ดีที่สุด",
-    "des2": "WiFi WPS Tester ตรวจสอบความปลอดภัยของเครือข่ายของคุณโดยใช้โปรโตคอล WPS",
-    "url": "com.vtnext.wifiwpstester"
+    "des2": "แอปพลิเคชันนี้จะช่วยคุณกู้รหัสผ่านของเครือข่ายไร้สายที่คุณเชื่อมต่อกับอุปกรณ์ของคุณในอดีต แอปนี้ไม่ได้ช่วยให้คุณสามารถแฮ็กรหัสผ่าน WiFi ได้",
+    "url": "com.vtnext.wifipassrecovery2"
   },
   {
     "language": "es",
-    "title": "WiFi WPS Tester",
+    "title": "Visor de contraseña WiFi",
     "des1": "Mejor aplicación",
-    "des2": "WiFi WPS Tester verifica la seguridad de sus redes mediante el protocolo WPS.",
-    "url": "com.vtnext.wifiwpstester"
+    "des2": "Esta aplicación le ayudará a recuperar la contraseña de una red inalámbrica a la que se conectó con su dispositivo en el pasado.",
+    "url": "com.vtnext.wifipassrecovery2"
+  },
+  {
+    "language": "ru",
+    "title": "Показать пароль WiFi",
+    "des1": "Лучшее применение",
+    "des2": "Список всех паролей wifi, сохраненных на вашем устройстве. Это приложение поможет вам восстановить пароль беспроводной сети, с которой вы подключились в прошлом.",
+    "url": "com.vtnext.wifipassrecovery2"
+  },
+  {
+    "language": "id",
+    "title": "Tampilkan kata sandi WiFi",
+    "des1": "Aplikasi terbaik",
+    "des2": "Daftar semua kata sandi wifi yang tersimpan di perangkat Anda. Aplikasi ini akan membantu Anda memulihkan kata sandi dari jaringan nirkabel yang telah Anda hubungkan dengan perangkat Anda di masa lalu.",
+    "url": "com.vtnext.wifipassrecovery2"
   }
 ]

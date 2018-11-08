@@ -1,17 +1,17 @@
 [
   {
     "language": "en",
-    "title": "WiFi WPS Connect",
+    "title": "WiFi WPS Tester",
     "des1": "Best application",
-    "des2": "WiFi WPS Connect checks the security of your networks using WPS protocol.",
-    "url": "teampro.wifi.wpsconnect"
+    "des2": "WiFi WPS Tester checks the security of your networks using WPS protocol.",
+    "url": "com.vtnext.wifiwpstester"
   },
   {
     "language": "vi",
-    "title": "WiFi WPS Connect",
+    "title": "WiFi WPS Tester",
     "des1": "Ứng dụng tốt nhất",
-    "des2": "WiFi WPS Connect kiểm tra tính bảo mật của các mạng của bạn bằng giao thức WPS.",
-    "url": "teampro.wifi.wpsconnect"
+    "des2": "WiFi WPS Tester kiểm tra tính bảo mật của các mạng của bạn bằng giao thức WPS.",
+    "url": "com.vtnext.wifiwpstester"
   },
   {
     "language": "pt",
@@ -22,10 +22,10 @@
   },
   {
     "language": "th",
-    "title": "WiFi WPS Connect",
+    "title": "WiFi WPS Tester",
     "des1": "โปรแกรมที่ดีที่สุด",
-    "des2": "WiFi WPS Connect ตรวจสอบความปลอดภัยของเครือข่ายของคุณโดยใช้โปรโตคอล WPS",
-    "url": "teampro.wifi.wpsconnect"
+    "des2": "WiFi WPS Tester ตรวจสอบความปลอดภัยของเครือข่ายของคุณโดยใช้โปรโตคอล WPS",
+    "url": "com.vtnext.wifiwpstester"
   },
   {
     "language": "es",
