@@ -33,5 +33,20 @@
     "des1": "Mejor aplicación",
     "des2": "WiFi WPS Connect verifica la seguridad de sus redes mediante el protocolo WPS.",
     "url": "teampro.wifi.wpsconnect"
+  },
+  {
+    "language": "ru",
+    "title": "WiFi WPS Connect",
+    "des1": "Лучшее применение",
+    "des2": "Подключите WiFi вокруг вас без использования пароля. Попробуй это сейчас!",
+    "url": "teampro.wifi.wpsconnect"
+  }
+  ,
+  {
+    "language": "id",
+    "title": "WiFi WPS Connect",
+    "des1": "Aplikasi terbaik",
+    "des2": "Hubungkan WiFi di sekitar Anda tanpa menggunakan kata sandi. Coba sekarang!",
+    "url": "teampro.wifi.wpsconnect"
   }
 ]
